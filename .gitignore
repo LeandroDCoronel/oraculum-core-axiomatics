@@ -1,0 +1,13 @@
+# Archivos temporales de Windows
+Thumbs.db
+*.tmp
+*.log
+
+# Archivos de IDE
+.vscode/
+.idea/
+
+# Archivos binarios / compilados
+*.exe
+*.dll
+*.pyc
