@@ -1,5 +1,17 @@
 # Changelog
 
+## [3.0.0] - 2026-02-27
+### Added
+- Daily progress calculation per domain (0-1) with weighted overall P
+- Auto-close of day at 21:00, disallow marking KPIs after closing
+- Historic JSON files now store progress per domain and overall P
+- CLI fully in English
+- Toggle KPIs (mark/unmark) in domain menu
+- Historic menu displays domain progress and overall P
+- Maintains compatibility with v2 JSON structure
+
+---
+
 ## [2.0.0] – 2026-02-26
 
 ### Added
