@@ -1,39 +1,22 @@
-Oraculum-Core-Axiomatics CLI
-Version 3.0.0
+# Oraculum Systems – CLI Core
+## Version 4 (2026-03-03)
 
-Overview
-Oraculum-Core-Axiomatics is a CLI tool to track daily KPIs across multiple domains:
+### Overview
+This release stabilizes the daily KPI tracking system:
 
-- Athletics
-- Business
-- Technology
-- Science
-- Regulation
+- Historic data now includes missing days automatically.
+- KPI names displayed in historic summaries.
+- Progress percentages formatted with 2 decimals.
+- Daily menu and KPI marking fully functional.
+- Ready for pivoting into future v5 with data analytics.
 
-It records completed KPIs, computes weighted daily progress (P), and maintains historical records.
+### How to use
+1. Run `python cli/main.py`.
+2. Select domain to mark KPIs completed.
+3. Access `[H] Historic` to see daily summaries.
+4. Progress is shown per domain and globally.
 
-Features in v3.0.0
-- Daily progress per domain (0-1)
-- Weighted overall progress P
-- Auto-close day at 21:00
-- Historic JSON storage with domain progress and overall P
-- Full CLI interface in English
-- Toggle KPIs (mark/unmark)
-- Backward compatible with v2 JSON files
-
-Usage
-1. Run the CLI:
-   python cli/main.py
-2. Mark KPIs as completed in your active window (05:00–21:00).
-3. View historical days using [H] Historic.
-
-File Structure
-- cli/main.py — main CLI logic
-- kpi-okrs/ — CSV files per domain
-- data/ — JSON files for today and historical records
-- VERSION — current version
-- README.md — project overview
-- CHANGELOG.md — version history
-
-License
-MIT License
+### Notes
+- Athletics KPIs are unchanged and verified.
+- All historical gaps filled up to the day before today.
+- Current system measures KPI as completed/not completed (1/0).
