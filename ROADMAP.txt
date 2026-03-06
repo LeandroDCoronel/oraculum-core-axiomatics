@@ -1,0 +1,118 @@
+ORACULUM CORE AXIOMATICS
+LONG TERM ROADMAP
+
+
+--------------------------------------------------
+PHASE I — FOUNDATIONS
+--------------------------------------------------
+
+v1.0.0
+Operational axiomatic core
+
+- Domain architecture
+- KPI tracking
+- Daily JSON persistence
+- First executable cybernetic loop
+
+
+v2.0.0
+Daily KPI CLI
+
+- Interactive command line interface
+- KPI toggle system
+- Domain navigation
+
+
+v3.0.0
+Weighted performance system
+
+- Domain weights
+- Global performance index
+- Improved CLI interface
+
+
+v4.0.0
+Historic engine
+
+- Daily history storage
+- Automatic gap repair
+- Historic viewer
+- Domain progress visualization
+
+
+v5.0.0
+Operative cost system
+
+- Gallery domain introduced
+- Operative Cost menu
+- Positive friction missions
+- Negative friction missions
+- Oraculum Insight engine
+
+
+
+--------------------------------------------------
+PHASE II — CYBERNETIC GUIDANCE
+--------------------------------------------------
+
+v6.0.0
+Adaptive guidance layer
+
+- Context aware insight
+- Behavioral suggestions
+- Domain imbalance detection
+- KPI recommendation logic
+
+
+v7.0.0
+Gamification architecture
+
+- Mission levels
+- Streak systems
+- Achievement system
+- Personal records
+
+
+v8.0.0
+Cybernetic feedback loop
+
+- Weekly analytics
+- Behavioral drift detection
+- Adaptive KPI weight tuning
+- Progress velocity metrics
+
+
+v9.0.0
+Autonomous behavioral optimizer
+
+- Pattern detection
+- Habit reinforcement
+- KPI auto-prioritization
+- Longitudinal performance tracking
+
+
+
+--------------------------------------------------
+PHASE III — HUMAN APOTHEOSIS ENGINE
+--------------------------------------------------
+
+v10.0.0
+Oraculum meta-system
+
+- Full cybernetic architecture
+- Multi-domain optimization
+- Long term mission planning
+- Apoteosis trajectory engine
+
+
+
+--------------------------------------------------
+LONG TERM VISION
+--------------------------------------------------
+
+Oraculum aims to evolve from a simple KPI tracking system
+into a full cybernetic framework capable of guiding
+human development through measurable feedback loops.
+
+The final objective is the construction of a
+Human Apoteosis Operating System.
