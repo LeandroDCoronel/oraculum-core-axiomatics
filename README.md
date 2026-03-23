@@ -1,3 +1,11 @@
+![Python](https://img.shields.io/badge/Python-3.10%2B-blue)![CLI](https://img.shields.io/badge/CLI-Tool-lightgrey)
+
+**Personal OS for KPI tracking.** v5: Operative Cost + Positive/Negative Friction missions. v4: historic backfill + weighted progress. v3: auto-close & English CLI.
+
+**Run**
+pip install -r requirements.txt
+python main.py
+
 ORACULUM CORE AXIOMATICS
 
 Oraculum is a personal cybernetic operating system designed to guide
